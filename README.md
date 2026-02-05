@@ -52,4 +52,4 @@ Among these, Random Forest achieved the best performance.
 ---
 
 ## 🔹 Academic Purpose
-This project was developed as part of a **Data Science FT-1 academic activity**.
+This project was developed as part of a **Data Science academic activity**.
